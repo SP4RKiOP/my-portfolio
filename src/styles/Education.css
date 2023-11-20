@@ -1,0 +1,20 @@
+.education {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .degree {
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccd6f6;
+    border-radius: 8px;
+    background-color: #a8b2d1;
+    text-align: center;
+    width: 250px;
+  }
+  
+  .section-title {
+    color: #112240;
+  }
+  
